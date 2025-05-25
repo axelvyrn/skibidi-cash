@@ -11,3 +11,16 @@ flutter:
   assets:
     - assets/images/
     - assets/sounds/
+  assets:
+    - assets/sounds/skibidi.mp3
+    dependencies:
+  bitcoin_flutter: ^2.1.0
+  http: ^0.13.5
+  dependencies:
+  bdk_flutter: ^0.27.0
+  path_provider: ^2.1.1
+  permission_handler: ^11.0.0
+  audioplayers: ^5.2.1
+
+
+
